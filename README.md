@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Sai - aka [psreddyio](https://medium.com/@psreddyio) 
 
-[![Static Badge](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://medium.com/@psreddyio/github-commands-that-are-almost-enough-on-a-day-to-day-basis-for-a-software-engineer-24f355af852f)
-[![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/psreddyio)
-
-**psreddyio/psreddyio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Static Badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@psreddyio/github-commands-that-are-almost-enough-on-a-day-to-day-basis-for-a-software-engineer-24f355af852f)
+[![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/psreddyio)
+[![Static Badge](https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/psreddyio/)
+[![Static Badge](https://img.shields.io/badge/Stack_Overflow-black?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/13513391/psreddyio)
 
 Here are some ideas to get you started:
 
