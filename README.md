@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Sai - aka [psreddyio](https://medium.com/@psreddyio) 
 
-<!--
+[![Static Badge](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://medium.com/@psreddyio/github-commands-that-are-almost-enough-on-a-day-to-day-basis-for-a-software-engineer-24f355af852f)
+[![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/psreddyio)
+
 **psreddyio/psreddyio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
