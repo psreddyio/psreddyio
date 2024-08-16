@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on GCP and Python development.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Digital marketing
 - 💬 Ask me about coding, personal development and watches.
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm learning to play Piano.
 -->
