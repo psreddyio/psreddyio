@@ -7,11 +7,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on GCP and Python development.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about coding, productivity and watches.
+- 💬 Ask me about coding, personal development and watches.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
