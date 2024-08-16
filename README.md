@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about coding, personal development and watches.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I'm learning to play Piano.
--->
